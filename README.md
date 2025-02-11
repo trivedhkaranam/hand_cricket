@@ -1,1 +1,1 @@
-# hand_cricket
+# hand-cricket-using-cpp
